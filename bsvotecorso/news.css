@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+#thescript{
+    color:white;
+    font-size: 15px;
+    padding-left: 20%;
+
+}
+
+#bruh {
+    width: 40%;
+    height: auto;
+    padding-left: 30px;
+}
+
+#thecontainer{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+
+#subtitle{
+    color:rgb(171,143,0);
+    justify-content: center;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50%;
+
+}
+
+#highschool{
+    width: 20%;
+    display: inline-flex;
+    white-space: nowrap;
+
+}
+
+#news1{
+    border-color: rgb(171,143,0);
+}

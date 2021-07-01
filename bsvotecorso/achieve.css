@@ -1,0 +1,10 @@
+#bad{
+    width: 20%;
+    display: inline-flex;
+    white-space: nowrap;
+
+}
+
+#what{
+    color: rgb(171,143,0);
+}

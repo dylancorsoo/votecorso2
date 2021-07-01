@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+#thescript, #thescript2 , #thescript3, #thescript4{
+    color:white;
+    font-size: 15px;
+
+
+}
+
+#bruh {
+    width: 40%;
+    height: auto;
+    padding-left: 30px;
+}
+
+#thecontainer{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+
+#subtitle, #subtitle2, #subtitle3, #subtitle4, #subtitle5{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 150px;
+}

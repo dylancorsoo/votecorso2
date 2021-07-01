@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+#thescript{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+
+#bruh {
+    width: 40%;
+    height: auto;
+    padding-left: 30px;
+}
+
+#thecontainer{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+
+#subtitle{
+    color:rgb(171,143,0);
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+    font-family: serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 150px;
+}
